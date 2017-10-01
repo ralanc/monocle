@@ -1,0 +1,1 @@
+/Users/Ryan/monocle/tmp/funnel-input_base_path-hdRKr8jB.tmp/resolvers/classic/container-debug-adapter.js

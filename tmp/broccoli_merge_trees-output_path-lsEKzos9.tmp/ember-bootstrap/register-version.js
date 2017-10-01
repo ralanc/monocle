@@ -1,0 +1,1 @@
+/Users/Ryan/monocle/tmp/broccoli_persistent_filtermapper-output_path-26DA6Jf8.tmp/ember-bootstrap/register-version.template

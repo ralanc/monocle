@@ -1,0 +1,1 @@
+/Users/Ryan/monocle/tmp/funnel-input_base_path-p0VeJAOH.tmp/instance-initializers/initialize-store-service.js

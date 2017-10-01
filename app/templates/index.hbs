@@ -1,0 +1,18 @@
+
+  <div class="row">
+    {{#each model as |index|}}
+      <div class="outerSection col-sm-3 col-md-3" >
+      <article class="innerSection" style={{index.color}}>
+        <div>
+          {{input placeholder=index.title class="sectionQuestion"}}
+        </div>
+        <div class="entry">
+          I had my morning coffee
+        </div>
+      </article>
+    </div>
+    {{/each}}
+  </div>
+<button class="btn btn-lg btn-primary">
+  <span class="glyphicon glyphicon-cog"></span> Log Me In!
+</button>
