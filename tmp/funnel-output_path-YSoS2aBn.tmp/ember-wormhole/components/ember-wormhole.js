@@ -1,1 +1,0 @@
-/Users/Ryan/monocle/tmp/funnel-input_base_path-O3yi74yz.tmp/components/ember-wormhole.js

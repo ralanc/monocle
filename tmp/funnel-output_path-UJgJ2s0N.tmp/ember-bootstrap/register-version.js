@@ -1,1 +1,0 @@
-/Users/Ryan/monocle/tmp/funnel-input_base_path-rqHGVVKZ.tmp/ember-bootstrap/register-version.template

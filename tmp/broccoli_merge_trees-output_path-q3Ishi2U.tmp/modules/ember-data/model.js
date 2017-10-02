@@ -1,1 +1,0 @@
-/Users/Ryan/monocle/tmp/broccoli_merge_trees-input_base_path-sq1iLl6y.tmp/0/modules/ember-data/model.js
